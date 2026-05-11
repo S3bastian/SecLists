@@ -7309,6 +7309,11 @@ install/mysql/tables/llx_c_propalst.key.sql
 mysql/tables/llx_c_propalst.key.sql
 tables/llx_c_propalst.key.sql
 llx_c_propalst.key.sql
+htdocs/install/mysql/tables/llx_product_warehouse_properties-stock.key.sql
+install/mysql/tables/llx_product_warehouse_properties-stock.key.sql
+mysql/tables/llx_product_warehouse_properties-stock.key.sql
+tables/llx_product_warehouse_properties-stock.key.sql
+llx_product_warehouse_properties-stock.key.sql
 htdocs/install/mysql/tables/llx_fichinter_extrafields.key.sql
 install/mysql/tables/llx_fichinter_extrafields.key.sql
 mysql/tables/llx_fichinter_extrafields.key.sql
@@ -10588,6 +10593,10 @@ linkedobjectblock.tpl.php
 htdocs/contrat/agenda.php
 contrat/agenda.php
 agenda.php
+htdocs/contrat/stats/index.php
+contrat/stats/index.php
+stats/index.php
+index.php
 htdocs/contrat/ticket.php
 contrat/ticket.php
 ticket.php
@@ -10617,6 +10626,10 @@ document.php
 htdocs/contrat/services_list.php
 contrat/services_list.php
 services_list.php
+htdocs/contrat/class/contratstats.class.php
+contrat/class/contratstats.class.php
+class/contratstats.class.php
+contratstats.class.php
 htdocs/contrat/class/api_contracts.class.php
 contrat/class/api_contracts.class.php
 class/api_contracts.class.php
